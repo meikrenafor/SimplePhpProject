@@ -1,0 +1,55 @@
+
+* {
+    font-family: fantasy;
+}
+
+body {
+    background-image: url('/images/bg.jpg');
+}
+
+.text-center {
+    text-align: center;
+}
+
+.button {
+    margin-right: 1%;
+}
+
+.common-form {
+    position: relative;
+}
+
+.register-form {
+    position: relative;
+}
+
+.login-form {
+
+}
+
+.article-form {
+
+}
+
+.common-column {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 6%;
+}
+
+.login-element {
+    text-align: center;
+    margin: 10px 0;
+    display: block;
+}
+
+.login-button {
+    text-align: center;
+    margin: 10px 0;
+    display: block;
+}
+
+.inline-block {
+    display: inline-block;
+}
